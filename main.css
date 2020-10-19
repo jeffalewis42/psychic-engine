@@ -1,0 +1,130 @@
+.navbar-container {
+    padding-left: 0px;
+    padding-right: 0px;
+    border-left-width: 15px;
+    border-left-color: #343a40;
+    border-left-style: solid;
+    border-right-width: 15px;
+    border-right-color: #343a40;
+    border-right-style: solid;
+}
+
+.skate-jumbotron {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #316B86, #E6E2E0);
+/*    background-color: #316B86;*/
+}
+
+.headingJumbotron{
+/*    color: white;*/
+    
+    
+}
+
+.subheadingJumbotron{
+/*    color: beige;*/
+    
+}
+.carousel-caption {
+    color: chartreuse;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.ButtonWrapper {
+    padding: 3rem;
+    /*    text-align: center;*/
+}
+
+
+
+button.coolStuffBtn {
+    color: #fff;
+    background-color: #D8471E;
+    display: block;
+    margin: auto;
+}
+
+img.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.ThumbsCard {
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+
+}
+
+.ThumbsImg {
+    max-width: 315px;
+}
+
+.ThumbsFooter {
+    padding: 0;
+    padding-top: .5rem;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+
+button.ThumbsBtn {
+    color: #fff;
+    background-color: #D8471E;
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 315px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.footerImg {
+    padding: 15px;
+}
+
+.fab {
+    margin: 10px;
+}
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.social-wrapper {
+    margin: auto;
+}
+.CoolStuffHeader {
+    border-bottom: none;
+}
+
+.CoolStuffBody {
+    border-bottom: none;
+}
+
+.CoolStuffFooter {
+    border-top: none;
+}
+
+.ModalCloseX {
+    position: absolute;
+    right: 1rem;
+}
+
+div.modalFormWrapper {
+    padding: 2rem;
+}
